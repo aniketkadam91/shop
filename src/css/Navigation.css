@@ -1,0 +1,20 @@
+ul.main-nav {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    background: #d9e2f1;
+    margin: 0px;
+}
+ul.main-nav li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #2a251c;
+}
+
+ul.main-nav li a:hover{
+    color: #ffc404;
+}
